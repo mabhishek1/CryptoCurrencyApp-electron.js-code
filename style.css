@@ -1,0 +1,48 @@
+body{
+    margin: 0%;
+}
+
+#id1{
+    height: 20vh;
+    background-color: black;
+}
+
+#id2{
+    height: 30vh;
+    background-color: red;
+}
+
+#id3{
+    height: 50vh;
+    background-color: black;
+}
+
+#id2p{
+    display: block;
+    background-color: rgb(88, 24, 24);
+    color:white;
+    padding-left: 4vh;
+    margin: 0px;
+    font-size:5vh;
+}
+
+#id2btn{
+    background-color: red;
+    padding: 1vh;
+    border-color: brown;
+    color:white;
+    margin: 9vh;
+}
+
+#id2btn2{
+    position: absolute;
+    right: 5vh;
+    top: 30vh;
+}
+
+#targetprice{
+    position: absolute;
+    top:35vh;
+    left: 20vh;
+    color: white;
+}
